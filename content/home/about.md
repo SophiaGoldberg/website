@@ -30,7 +30,7 @@ weight = 5
  
 +++
 
-I'm a Data Scientist at [Streetbees](https://www.streetbees.com/), I previously worked at [Isaac Physics](https://isaacphysics.org/) and was a Data Science Fellow at [ASI Data Science](https://www.asidatascience.com/).
+I'm a Senior Data Scientist at [Sky](https://www.sky.com/). I previously worked at [Streetbees](https://www.streetbees.com/) and [Isaac Physics](https://isaacphysics.org/), and was a Data Science Fellow at [Faculty](https://faculty.ai/).
 
 I completed my PhD in Theoretical Cosmology, studying how the universe came to be and how it evolved to its current state. I worked with [Dr Timothy Clifton](http://astro.qmul.ac.uk/directory/t.clifton) and [Dr Karim Malik](http://astro.qmul.ac.uk/directory/k.malik) on the application of a two-parameter perturbation theory to describe structure on cosmological scales at late times - this includes structure like galaxies and clusters. The correct application of General Relativity to Large-Scale Structure (LSS) is increasingly important with increasing observational precision. It is also important when comparing different theories of gravity to observational data.
 
